@@ -1,0 +1,2 @@
+variable "vpcmain" {}
+variable "vpcmainid" {}
